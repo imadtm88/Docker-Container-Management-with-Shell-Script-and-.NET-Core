@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Docker_manager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9119345B-1E72-47CB-BA89-7931C5019B99}|WebAPI\\WebAPI.csproj|c:\\users\\imad.ettamen\\onedrive - akkodis\\bureau\\docker_manager\\webapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9119345B-1E72-47CB-BA89-7931C5019B99}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9119345B-1E72-47CB-BA89-7931C5019B99}|WebAPI\\WebAPI.csproj|c:\\users\\imad.ettamen\\onedrive - akkodis\\bureau\\docker_manager\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{9119345B-1E72-47CB-BA89-7931C5019B99}|WebAPI\\WebAPI.csproj|solutionrelative:.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9119345B-1E72-47CB-BA89-7931C5019B99}|WebAPI\\WebAPI.csproj|c:\\users\\imad.ettamen\\onedrive - akkodis\\bureau\\docker_manager\\webapi\\controllers\\dockercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9119345B-1E72-47CB-BA89-7931C5019B99}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\dockercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9119345B-1E72-47CB-BA89-7931C5019B99}|WebAPI\\WebAPI.csproj|c:\\users\\imad.ettamen\\onedrive - akkodis\\bureau\\docker_manager\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9119345B-1E72-47CB-BA89-7931C5019B99}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9119345B-1E72-47CB-BA89-7931C5019B99}|WebAPI\\WebAPI.csproj|c:\\users\\imad.ettamen\\onedrive - akkodis\\bureau\\docker_manager\\webapi\\service\\shellservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9119345B-1E72-47CB-BA89-7931C5019B99}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\service\\shellservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|NewFolder1{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Docker_manager\\stop_container.sh||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|NewFolder1{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|solutionrelative:stop_container.sh||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|NewFolder1{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Docker_manager\\start_container.sh||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|NewFolder1{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|solutionrelative:start_container.sh||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|NewFolder1{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Docker_manager\\list_containers.sh||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|NewFolder1{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|solutionrelative:list_containers.sh||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": ".dockerignore",
+              "DocumentMoniker": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Docker_manager\\.dockerignore",
+              "RelativeDocumentMoniker": ".dockerignore",
+              "ToolTip": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Docker_manager\\.dockerignore",
+              "RelativeToolTip": ".dockerignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-17T13:27:55.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Docker_manager\\WebAPI\\Dockerfile",
+              "RelativeDocumentMoniker": "WebAPI\\Dockerfile",
+              "ToolTip": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Docker_manager\\WebAPI\\Dockerfile",
+              "RelativeToolTip": "WebAPI\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-17T13:27:55.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DockerController.cs",
+              "DocumentMoniker": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Docker_manager\\WebAPI\\Controllers\\DockerController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\DockerController.cs",
+              "ToolTip": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Docker_manager\\WebAPI\\Controllers\\DockerController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\DockerController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvxAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T13:27:32.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Docker_manager\\WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Docker_manager\\WebAPI\\Program.cs",
+              "RelativeToolTip": "WebAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T13:27:06.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ShellService.cs",
+              "DocumentMoniker": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Docker_manager\\WebAPI\\Service\\ShellService.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Service\\ShellService.cs",
+              "ToolTip": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Docker_manager\\WebAPI\\Service\\ShellService.cs",
+              "RelativeToolTip": "WebAPI\\Service\\ShellService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T13:26:15.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "stop_container.sh",
+              "DocumentMoniker": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Docker_manager\\stop_container.sh",
+              "RelativeDocumentMoniker": "stop_container.sh",
+              "ToolTip": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Docker_manager\\stop_container.sh",
+              "RelativeToolTip": "stop_container.sh",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|",
+              "WhenOpened": "2025-06-17T13:25:26.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "start_container.sh",
+              "DocumentMoniker": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Docker_manager\\start_container.sh",
+              "RelativeDocumentMoniker": "start_container.sh",
+              "ToolTip": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Docker_manager\\start_container.sh",
+              "RelativeToolTip": "start_container.sh",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|",
+              "WhenOpened": "2025-06-17T13:25:02.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "list_containers.sh",
+              "DocumentMoniker": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Docker_manager\\list_containers.sh",
+              "RelativeDocumentMoniker": "list_containers.sh",
+              "ToolTip": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Docker_manager\\list_containers.sh",
+              "RelativeToolTip": "list_containers.sh",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|",
+              "WhenOpened": "2025-06-17T13:24:23.807Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

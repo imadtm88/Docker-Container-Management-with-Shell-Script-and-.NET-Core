@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI", "WebAPI\WebAPI.csproj", "{9119345B-1E72-47CB-BA89-7931C5019B99}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "scripts", "scripts", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+	ProjectSection(SolutionItems) = preProject
+		list_containers.sh = list_containers.sh
+		start_container.sh = start_container.sh
+		stop_container.sh = stop_container.sh
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9119345B-1E72-47CB-BA89-7931C5019B99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9119345B-1E72-47CB-BA89-7931C5019B99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9119345B-1E72-47CB-BA89-7931C5019B99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9119345B-1E72-47CB-BA89-7931C5019B99}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7954838F-39AA-4145-8C2D-379CDD104D4F}
+	EndGlobalSection
+EndGlobal
